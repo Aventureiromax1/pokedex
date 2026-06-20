@@ -44,3 +44,7 @@ yarn-error.*
 .claude/
 AGENTS.md
 CLAUDE.md
+
+# Large files and binary assets causing Snack import validation errors
+package-lock.json
+assets/
